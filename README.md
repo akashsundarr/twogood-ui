@@ -1,12 +1,35 @@
-# React + Vite
+# TwoGood UI Clone – BRIK Phase 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a UI clone of the Two Good Co. website, done as part of **BRIK Community’s Phase 1 work**.  
+The goal was to pick a real-world website and rebuild the frontend using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React (Vite)
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## 📂 Sections Built
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Impact Section  
+- Product Card  
+- Testimonials  
+- Footer
+
+More sections will be added as the project continues.
+
+## 🎯 Purpose
+
+This clone is built manually, without using the original code.  
+It’s for learning and improving UI development, layout building, and understanding how professional websites are structured.
+
+## 🛠 How to Run
+
+```bash
+# Clone this repo
+git clone https://github.com/akashsundarr/twogood-ui.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
