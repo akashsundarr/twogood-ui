@@ -63,7 +63,7 @@ export default function Component() {
           </div>
 
           {/* Right - Paragraphs */}
-          <div className="mt-12 lg:mt-0 space-y-4 text-sm sm:text-base md:text-[17px]  xl:text-amber-400 leading-relaxed  px-4 sm:px-8 md:px-12 lg:px-0 lg:ml-[115px] xl:ml-[90px]">
+          <div className="mt-12 lg:mt-0 space-y-4 text-sm sm:text-base md:text-[17px]  xl:text-2xl leading-relaxed  px-4 sm:px-8 md:px-12 lg:px-0 lg:ml-[115px] xl:ml-[90px]">
             <p className="font-inter text-sm tracking-wide leading-relaxed">
               Everything we do is designed to rebuild self-worth and
               independence, in order to break free from the cycle of <br />{" "}
