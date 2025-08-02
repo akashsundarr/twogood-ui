@@ -22,7 +22,7 @@ export default function FooterSection() {
           <div className="flex justify-center ">
             <div className="w-64 h-64">
               <img
-                src="../assets/below-dot.png"
+                src="/assets/below-dot.png"
                 alt="Two Good Co. Logo"
                 className="w-full h-full object-contain"
               />

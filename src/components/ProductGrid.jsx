@@ -3,25 +3,25 @@ const products = [
     id: 1,
     name: "THE LOVE + CARE PACK",
     price: "$50",
-    image: "../assets/fullpack.avif",
+    image: "/assets/fullpack.avif",
   },
   {
     id: 2,
     name: "TWO GOOD TOTE BAG",
     price: "$40",
-    image: "../assets/bag.avif",
+    image: "/assets/bag.avif",
   },
   {
     id: 3,
     name: "NOURISH & SOOTHE HAND LOTION",
     price: "$38",
-    image: "../assets/lotion.avif",
+    image: "/assets/lotion.avif",
   },
   {
     id: 4,
     name: "COOKBOOK TWO",
     price: "$45",
-    image: "../assets/green-book.avif",
+    image: "/assets/green-book.avif",
   },
 ];
 

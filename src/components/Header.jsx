@@ -1,5 +1,5 @@
 import { Menu, ShoppingCart } from "lucide-react";
-import logo from "../assets/revised-logo.png";
+import logo from "/assets/revised-logo.png";
 
 export default function Header() {
   return (
