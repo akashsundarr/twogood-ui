@@ -5,19 +5,19 @@ export default function Component() {
     {
       title: "NEW GOODIES",
       bg: "bg-[#B2D5B7] hover:bg-[#A0C6A5]",
-      src: "/src/assets/goodies.avif",
+      src: "../assets/goodies.avif",
       alt: "Person in apron in kitchen setting",
     },
     {
       title: "PANTRY",
       bg: "bg-[#F4DECF] hover:bg-[#E9D1C0]",
-      src: "/src/assets/pantry.avif",
+      src: "../assets/pantry.avif",
       alt: "Hands preparing energy balls on parchment paper",
     },
     {
       title: "BATH",
       bg: "bg-[#FEFEFF] hover:bg-[#F0F0F0]",
-      src: "/src/assets/Bath.avif",
+      src: "../assets/Bath.avif",
       alt: "Black bath and body care products on marble surface",
     },
   ];

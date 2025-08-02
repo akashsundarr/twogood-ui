@@ -1,6 +1,6 @@
 export default function FooterSection() {
   return (
-    <footer className="w-full  py-40 px-6">
+    <footer className="w-full bg-white py-40 px-6">
       <div className="max-w-7xl mx-auto">
         {/* Main Footer Content */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-16">
@@ -22,7 +22,7 @@ export default function FooterSection() {
           <div className="flex justify-center ">
             <div className="w-64 h-64">
               <img
-                src="/src/assets/below-dot.png"
+                src="../assets/below-dot.png"
                 alt="Two Good Co. Logo"
                 className="w-full h-full object-contain"
               />

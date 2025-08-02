@@ -37,7 +37,7 @@ export default function ImpactSection() {
           <div className="lg:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-4 pt-40 ">
             <div className="aspect-[3/4] relative overflow-hidden ">
               <img
-                src="/src/assets/Christina.avif"
+                src="../assets/Christina.avif"
                 alt="Two women in Two Good Co. t-shirts sitting together in conversation"
                 className="object-cover w-full h-full"
               />
@@ -45,7 +45,7 @@ export default function ImpactSection() {
 
             <div className="aspect-[3/4] relative overflow-hidden ">
               <img
-                src="/src/assets/Patrica.avif"
+                src="../assets/Patrica.avif"
                 alt="Smiling woman wearing Two Good Co. t-shirt"
                 className="object-cover w-full h-full"
               />

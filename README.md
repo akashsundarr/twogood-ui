@@ -33,3 +33,44 @@ npm install
 
 # Start development server
 npm run dev
+
+
+
+```
+task
+├─ eslint.config.js
+├─ index.html
+├─ package-lock.json
+├─ package.json
+├─ public
+│  └─ favicon.png
+├─ README.md
+├─ src
+│  ├─ App.jsx
+│  ├─ assets
+│  │  ├─ bag.avif
+│  │  ├─ Bath.avif
+│  │  ├─ below-dot.png
+│  │  ├─ Christina.avif
+│  │  ├─ fullpack.avif
+│  │  ├─ goodies.avif
+│  │  ├─ green-book.avif
+│  │  ├─ hero.jpg
+│  │  ├─ lotion.avif
+│  │  ├─ Pantry.avif
+│  │  ├─ Patrica.avif
+│  │  └─ revised-logo.png
+│  ├─ components
+│  │  ├─ Footer.jsx
+│  │  ├─ Header.jsx
+│  │  ├─ Hero.jsx
+│  │  ├─ Impact.jsx
+│  │  ├─ Product.jsx
+│  │  ├─ ProductGrid.jsx
+│  │  └─ Testimonials.jsx
+│  ├─ index.css
+│  └─ main.jsx
+├─ tailwind.config.js
+└─ vite.config.js
+
+```
