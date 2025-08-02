@@ -11,7 +11,7 @@ export default function Component() {
     {
       title: "PANTRY",
       bg: "bg-[#F4DECF] hover:bg-[#E9D1C0]",
-      src: "/assets/pantry.avif",
+      src: "/pantry.avif",
       alt: "Hands preparing energy balls on parchment paper",
     },
     {
