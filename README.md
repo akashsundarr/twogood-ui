@@ -3,6 +3,8 @@
 This project is a UI clone of the Two Good Co. website, done as part of **BRIK Community’s Phase 1 work**.  
 The goal was to pick a real-world website and rebuild the frontend using React and Tailwind CSS.
 
+Link : https://twogood-ui.vercel.app/
+
 ## 🚀 Tech Stack
 
 - React (Vite)
