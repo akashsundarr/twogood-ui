@@ -1,40 +1,55 @@
-# TwoGood UI Clone – BRIK Phase 1
+# Two Good UI Clone – BRIK Community Phase 1
 
-This project is a UI clone of the Two Good Co. website, done as part of **BRIK Community’s Phase 1 work**.  
-The goal was to pick a real-world website and rebuild the frontend using React and Tailwind CSS.
+This project is a UI clone of the [Two Good Co.](https://www.twogood.com.au/) website. It was built as part of the **BRIK Community's Phase 1 work** to replicate a real-world website's frontend.
 
-Link : https://twogood-ui.vercel.app/
+---
 
-## 🚀 Tech Stack
+### 🎯 **Purpose & Learning Goals**
 
-- React (Vite)
-- Tailwind CSS
+The primary goal of this project is to strengthen my skills in modern UI development. By manually rebuilding the frontend without using the original source code, I focused on:
 
-## 📂 Sections Built
+* **Responsive Layouts:** Building a fluid and adaptive layout that looks great on various screen sizes, with a specific focus on a desktop resolution of **1440px x 900px**.
+* **Component-Based Architecture:** Structuring the UI into reusable React components for maintainability and scalability.
+* **Modern Styling:** Leveraging Tailwind CSS for rapid and utility-first styling.
+* **Understanding Professional Structure:** Gaining insight into how professional websites are built and organized.
 
-- Impact Section  
-- Product Card  
-- Testimonials  
-- Footer
+---
+
+### 🚀 **Tech Stack**
+
+* **Frontend:** React (Vite)
+* **Styling:** Tailwind CSS
+
+### 📂 **Current Sections**
+
+* Impact Section
+* Product Card
+* Testimonials
+* Footer
 
 More sections will be added as the project continues.
 
-## 🎯 Purpose
+---
 
-This clone is built manually, without using the original code.  
-It’s for learning and improving UI development, layout building, and understanding how professional websites are structured.
+### 🌐 **Live Demo**
 
-## 🛠 How to Run
+[https://twogood-ui.vercel.app/](https://twogood-ui.vercel.app/)
+
+---
+
+### 🛠 **How to Run Locally**
+
+To get a copy of this project running on your local machine, follow these steps:
 
 ```bash
-# Clone this repo
-git clone https://github.com/akashsundarr/twogood-ui.git
+# 1. Clone the repository
+git clone [https://github.com/akashsundarr/twogood-ui.git](https://github.com/akashsundarr/twogood-ui.git)
 
-# Install dependencies
+# 2. Navigate into the project directory
+cd twogood-ui
+
+# 3. Install the dependencies
 npm install
 
-# Start development server
+# 4. Start the development server
 npm run dev
-
-
-
